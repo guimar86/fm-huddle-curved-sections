@@ -1,0 +1,93 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+
+    font-weight: 700px;
+}
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
+
+.top {
+
+    padding: 2% 5% 10% 5%;
+    position: relative;
+}
+
+.top .free {
+
+    float: right;
+    border-radius: 20px;
+    border: 1px solid hsl(322, 100%, 66%);
+    color: hsl(322, 100%, 66%);
+}
+
+.header p {
+
+    text-align: center;
+    width: 500px;
+    margin: 0 auto;
+    line-height: 1.8;
+}
+
+.pink-btn {
+
+    background-color: hsl(321, 100%, 78%);
+    color: #FFF;
+    border-radius: 60px;
+    border: 1px solid hsl(321, 100%, 78%);
+    margin: 5% 0 3% 0;
+    padding: 1% 5%;
+}
+
+.header .btn-outline-primary:hover {
+
+    background-color: #FFF;
+    color: hsl(321, 100%, 78%);
+}
+
+.mockup {
+
+    text-align: center;
+    max-width: 100;
+}
+
+.big-number {
+
+    font-size: 4rem;
+    font-weight: 700;
+}
+
+.grow-together {
+
+    background-image: url("../images/bg-section-top-desktop-1.svg");
+}
+
+.grow-img {
+
+    max-width: 50%;
+}
+
+#footer {
+
+    background-color: rgba(0, 37, 46, 255);
+    color: #FFF;
+}
